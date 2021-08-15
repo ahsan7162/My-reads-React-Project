@@ -4,10 +4,24 @@
 
 This game was built for the XORD Blockship Program. The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app.
 
+## How to Use the App
+
+* Books are sorted into three categories: Currently Reading, Want to Read and Read
+* To change a book's category or remove a book from the list, click on the green button on the book cover
+* To add new books, click on the search button at the bottom of the page. Enter an author's name or subject. Up to 20 items will be returned.
+
+## Packages used in this APP
+
+* React-Router
+* Hooks(useState,useEffect)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install all the packages with related to this app
 
 ### `npm start`
 
