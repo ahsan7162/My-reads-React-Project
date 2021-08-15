@@ -4,6 +4,11 @@
 
 This game was built for the XORD Blockship Program. The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app.
 
+## Deployed Project
+
+You can Run the deployed app on https://myreadsxord.surge.sh/
+
+
 ## How to Use the App
 
 * Books are sorted into three categories: Currently Reading, Want to Read and Read
