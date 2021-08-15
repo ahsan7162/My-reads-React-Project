@@ -4,6 +4,16 @@
 
 This game was built for the XORD Blockship Program. The purpose of the project is to demonstrate understanding of the basic structure and operation of a React-based app.
 
+
+## Features Of Project
+
+* Use of fuctional Component instead of Traditional class based Components
+* App separated into different components for better reusability
+* Use of React-Router for Navigation
+* Use of React Hooks to simplify operation
+* Search Results are shown as you start typing 
+
+
 ## Deployed Project
 
 You can Run the deployed app on https://myreadsxord.surge.sh/
